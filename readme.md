@@ -1,8 +1,8 @@
-# Bot Menfess WhatsApp
+# Bot WhatsApp Menfess
 Bot WhatsApp khusus Menfess by [`@irfann._x`](https://instagram.com/irfann._x)
 
-### Thanks To
-[`Adiwajshing`](https://github.com/adiwajshing)
+<b>Thanks To: </b>[`Adiwajshing`](https://github.com/adiwajshing)
 
-#### Notes
-* Ganti nomer Owner bot di [`config.json`](config.json)
+<b>Notes: </b>Ganti nomer Owner bot di [`config.json`](config.json)
+
+Support me on [`Trakteer`](https://trakteer.id/chibot)
