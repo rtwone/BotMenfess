@@ -220,7 +220,7 @@ module.exports = async(conn, msg, m, setting, store) => {
 		var cekForChat = false
             if (isCmd) {
                 var anw = command.split(prefix)[1]
-                var filter_chat = ["connecct_chat", "stopchat", "acc_chat", "dn_acc"]
+                var filter_chat = ["connect_chat", "stopchat", "acc_chat", "dn_acc"]
                 if (filter_chat.includes(anw)) cekForChat = true
         }
 		if (!isGroup && !msg.key.fromMe && !cekForChat) {
