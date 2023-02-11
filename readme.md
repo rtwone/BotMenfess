@@ -8,3 +8,5 @@ Bot WhatsApp khusus Menfess by [`@irfann._x`](https://instagram.com/irfann._x)
 Support me on [`Trakteer`](https://trakteer.id/chibot)
 
 My Bot [`Chitanda Eru Bot`](https://wa.me/628988889828)
+
+[`Join My WhatsApp Group`](https://chat.whatsapp.com/GfRg426F0RtE5s0XzFI6Oc)
