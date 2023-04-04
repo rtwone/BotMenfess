@@ -5,9 +5,9 @@ Bot WhatsApp khusus Menfess by [`@irfann._x`](https://instagram.com/irfann._x)
 
 <b>Notes: </b>Ganti nomer Owner bot di [`config.json`](config.json)
 
-Support me on [`Trakteer`](https://trakteer.id/chibot)
+Support me on [`Trakteer`](https://trakteer.id/rtwone)
 
-My Bot [`Chitanda Eru Bot`](https://wa.me/628988889828)
+My Bot [`Chitanda Eru Bot`](https://s.id/chitandabot)
 
 [`Join My WhatsApp Group`](https://chat.whatsapp.com/GfRg426F0RtE5s0XzFI6Oc)
 
