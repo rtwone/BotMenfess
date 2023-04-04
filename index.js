@@ -9,7 +9,7 @@ const {
 	useMultiFileAuthState,
 	delay,
 	generateWAMessageFromContent
-} = require("@adiwajshing/baileys")
+} = require("baileys-md")
 const figlet = require("figlet");
 const fs = require("fs");
 const moment = require('moment')
