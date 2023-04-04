@@ -8,7 +8,7 @@
 "use strict";
 const {
 	downloadContentFromMessage
-} = require("@adiwajshing/baileys")
+} = require("baileys-md")
 const { color, bgcolor } = require('../lib/color')
 
 const fs = require ("fs");
